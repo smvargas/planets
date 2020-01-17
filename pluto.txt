@@ -1,2 +1,5 @@
 It is so a planet!
+<<<<<<< HEAD
 It is very dark, Dracula should like it just fine. 
+I think it is too small for us
+>>>>>>> 34c526354e3783f47c82b5d1b348a5871d3755e6
